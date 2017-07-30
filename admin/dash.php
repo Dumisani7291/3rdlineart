@@ -1,4 +1,5 @@
 <?php 
+//test
  session_start();
  global $now,$expire,$user_id,$fullname;
  if (isset($_SESSION['identification'])){
